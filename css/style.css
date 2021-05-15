@@ -13,7 +13,7 @@
 	--base-font-size: 16px;
 	--h1-font-size: 30px;
 	--h2-font-size: 24px;
-	--primary-font-weight: 400;
+	--primary-font-weight: 300;
 	--seconday-font-weight: 700;
 };
 
@@ -70,35 +70,38 @@ a:active {
 
 .button:link,
 .button:visited,
-input[type=submit] {
+#form__submit-button {
 	display:inline-block;
 	border: none;
 	text-decoration: none;
 	font-family:inherit;
 	padding: 10px 30px;
-	margin: 10px;
+	margin: 10px 10px 10px 0;
 	border-radius: 25px;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.3);
 	transition: 0.3s background-color;
 }
 
+ 
 
 .button:hover,
 .button:focus,
-input[type=submit] {
+#form__submit-button {
 	cursor: pointer;
 }
 
 
 
 .button__primary:link,
-.button__primary:visited {
+.button__primary:visited,
+#form__submit-button {
 	background-color: var(--primary-color);
 	color: var(--off-white);
 }
 
 .button__primary:hover,
-.button__primary:active {
+.button__primary:active,
+#form__submit-button {
 	background-color: var(--primary-color-darker);
 }
 
@@ -301,16 +304,13 @@ main::after {
 	margin: 50px auto;
 	display: flex;
 	justify-content: center;
-
-	
 }
  
 
 .profile-box__item {
 	height: 270px;
 	flex: 0 1 270px;
-	padding: 20px
-
+	padding: 20px;
 } 
 
 .profile-box__item img {
@@ -337,6 +337,7 @@ main::after {
 	margin: 15px;
 	display: flex;
 	justify-content: center;
+	visibility: hidden;
 }
 
 
@@ -406,10 +407,21 @@ main::after {
 	padding: 50px;
 	margin: 20px auto;
 	background-color: var(--form-color);
-	
+	border-radius: 10px;
 }
 
+.contact-form__1 input,
+.contact-form__1 textarea {
+	border-radius: 5px;
+	border: none;
+	padding: 10px;
+}
 
+.contact-form__1 #form__submit-button {
+	width: 200px;
+	margin: 10px auto;
+
+}
 
 /*  -----------------------   GRID SYSTEM   ------------------- */
 
@@ -472,6 +484,8 @@ main::after {
 	.page-header__about__item {
     margin-left: 0px; 
     text-align: center;
+	}
+
 
 	ul {
     padding-inline-start: 0px;
@@ -498,6 +512,12 @@ main::after {
 	flex: 0 1 250px;
 	padding: 10px;
 	} 
+
+	.button:link, .button:visited, #form__submit-button {
+    margin: 10px;
+    }
+
+
 
 }
 
