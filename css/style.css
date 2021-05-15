@@ -337,7 +337,7 @@ main::after {
 	margin: 15px;
 	display: flex;
 	justify-content: center;
-	visibility: hidden;
+	display: none;
 }
 
 
