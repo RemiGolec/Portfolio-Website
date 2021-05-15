@@ -469,6 +469,10 @@ main::after {
     margin-right: 0px;
 	}
 
+	.page-header__about__item {
+    margin-left: 0px; 
+    text-align: center;
+
 	ul {
     padding-inline-start: 0px;
 	}
