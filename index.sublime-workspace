@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"inline-bl",
+				"inline-table\tdisplay"
+			],
+			[
+				"d",
+				"dob"
+			],
+			[
+				"tel",
+				"telephone"
+			],
+			[
+				"op",
+				"optimizeLegibility\ttext-rendering"
+			],
+			[
+				"rom",
+				"upper-roman\tlist-style-type"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"typeofdta",
+				"typeofdata3"
+			],
+			[
+				"typeof",
+				"typeofdata1"
+			],
+			[
+				"string",
+				"string2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/work.html",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/css/styles.css",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/contact.html",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/about.html",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/index.html",
+		"/Users/remigiangolec/Desktop/My COLOR PALETTE eclectic/color codes and dives.html",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/img/icons/iconfinder_2018_social_media_popular_app_logo_twitter_3225183.svg",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/mockup to html tutorial.html",
+		"/Users/remigiangolec/Desktop/Career Foundry/wk 1/home.html",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/Omnifood/resources/css/queries.css",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/Omnifood/resources/js/script.js",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/Omnifood/resources/css/style.css",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/Omnifood/index.html",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/grid.css",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/Omnifood/css/style.css",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/blog post/style.css",
+		"/Users/remigiangolec/Desktop/J Schmedtman course/blog post/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/css/style.css",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/About.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/process.php",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/what is this/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/Contact.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Website/js/javaScript.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice2/js/javaScript.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice2/css/stylesheet.css",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice2/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/js/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/js/javaScript.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/css/style.css",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/index.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/javaScript.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/Practice/style.css",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/css/style.css",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/connection to css.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/javaScript/js.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/basics html.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/process.js",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/headings.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/structure.html",
+		"/Users/remigiangolec/Desktop/HTML Diaz course/paragraph.html",
+		"/Users/remigiangolec/Desktop/search.html",
+		"/Users/remigiangolec/Desktop/JS course/week 5/popUp.js",
+		"/Users/remigiangolec/Desktop/JS course/week 5/dynamicTable.html",
+		"/Users/remigiangolec/Desktop/JS course/week 5/popUps.html",
+		"/Users/remigiangolec/Desktop/JS course/week 4/splitMethod.html",
+		"/Users/remigiangolec/Desktop/JS course/week 4/split method  function.html",
+		"/Users/remigiangolec/Desktop/JS course/week 4/Practice1.html",
+		"/Users/remigiangolec/Desktop/JS course/week 4/practice1 additional.html",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice 4 external.js",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice 4.html",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice 3.html",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice 3 external.js",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice 2.html",
+		"/Users/remigiangolec/Desktop/JS course/Practice /Practice.html",
+		"/Users/remigiangolec/Desktop/JS course/week 3/WEEK 3 DOM.html",
+		"/Users/remigiangolec/Desktop/JS course/week 3/WEEK3 Map.html",
+		"/Users/remigiangolec/Desktop/JS course/week 3/external.js",
+		"/Users/remigiangolec/Desktop/JS course/week 2/javaScript test.html",
+		"/Users/remigiangolec/Desktop/JS course/external js.html",
+		"/Users/remigiangolec/Desktop/JS course/library.js",
+		"/Users/remigiangolec/Desktop/JS course/1-js-alert.html",
+		"/Users/remigiangolec/Desktop/JS course/tester revision.html",
+		"/Users/remigiangolec/Desktop/JS course/script.js",
+		"/Users/remigiangolec/Desktop/JS course/javaScript test.html",
+		"/Users/remigiangolec/Desktop/1-js-alert.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
