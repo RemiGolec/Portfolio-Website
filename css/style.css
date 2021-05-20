@@ -69,7 +69,7 @@ a:active {
 
 .button:link,
 .button:visited,
-#form__submit-button {
+input[type=submit] {
 	display:inline-block;
 	border: none;
 	text-decoration: none;
@@ -85,23 +85,21 @@ a:active {
 
 .button:hover,
 .button:focus,
-#form__submit-button {
+input[type=submit] {
 	cursor: pointer;
 }
 
-
-
 .button__primary:link,
 .button__primary:visited,
-#form__submit-button:link,
-#form__submit-button:visited{
+input[type=submit] {
 	background-color: var(--form-color);
 	color: var(--off-white);
 }
 
 .button__primary:hover,
 .button__primary:active,
-#form__submit-button {
+input[type=submit]:hover,
+input[type=submit]:active {
 	background-color: var(--form-color);
 	color: var(--highlight-color);
 }
@@ -425,8 +423,8 @@ main::after {
 	padding: 10px;
 }
 
-.contact-form__1 #form__submit-button {
-	width: 200px;
+.contact-form__1 input[type=submit] {
+	width: 150px;
 	margin: 10px auto;
 
 }
