@@ -486,7 +486,7 @@ label {
 
 @media all and (max-width: 550px) {
   .contact-form__1 {
-    max-width: 350px;
+    max-width: 330px;
     padding: 50px;
     margin: 20px auto;
   }
