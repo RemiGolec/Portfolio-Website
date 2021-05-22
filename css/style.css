@@ -319,6 +319,16 @@ keyframes cloud-move-reverse {
 
 /* -----------------------  CONTACT PAGE  --------------------- */
 
+.hero-image__contact-page {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0)), url(..//img/backgrounds/handset-picture__small.png);
+  height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
 .contact-info {
   text-align: center;
   margin: 20px;
@@ -479,16 +489,6 @@ label {
   .button:visited,
   #form__submit-button {
     margin: 10px;
-  }
-}
-
-/* ------------  CONTACT FORM @media ------  */
-
-@media all and (max-width: 550px) {
-  .contact-form__1 {
-    max-width: 350px;
-    padding: 50px;
-    margin: 20px auto;
   }
 }
 
