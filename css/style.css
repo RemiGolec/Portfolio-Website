@@ -452,7 +452,7 @@ label {
   }
 
   .page-header__about__item {
-    margin-left: 0;
+    margin: 0 auto;
     text-align: center;
   }
 
