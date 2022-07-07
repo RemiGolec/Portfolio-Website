@@ -52,17 +52,23 @@
                 <!-- ------  CONTACT FORM ---------- -->
 
                 <form action="/login_form_action" method="post" id="contact-form" class="contact-form__1">
-                    <label for="name">Full Name:</label><br>
-                    <input type="text" id="name" name="full name" required><br>
-                    <label for="email">Email:</label><br>
-                    <input type="email" id="email" name="user email" required><br>
+                    <div class="input-wrapper">
+                        <label for="name">Full Name:</label><br>
+                        <input type="text" id="name" name="full name" required><br>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="email">Email:</label><br>
+                        <input type="email" id="email" name="user email" required><br>
+                    </div>
                     <!--
                     <label for="date of birth">Date of birth (DD-MM-YYYY)</label><br>
                     <input type="date" id="date of birth" name="date of birth"
                     pattern="\d{2}[\-]\d{2}[\-]\d{4}"><br>
                     --->
-                    <label for="message">Message (max 150 characters)</label><br>
-                    <textarea maxlength="150" id="message" name="message" required></textarea><br>
+                    <div class="input-wrapper">
+                        <label for="message">Message (max 150 characters)</label><br>
+                        <textarea maxlength="150" id="message" name="message" required></textarea><br>
+                    </div>
                     <input type="submit" value="Send it">
                 </form>
 
@@ -87,7 +93,7 @@
 
 
             <script src="js/tota11y.min.js"></script>
-
+            <script src="js/form_validation.js"></script>
 
 
 

@@ -150,7 +150,6 @@ main::after {
 
 .page-header__about__item .signature {
   padding-left: 10px;
-
 }
 
 .navigation-list {
@@ -341,6 +340,8 @@ keyframes cloud-move-reverse {
   border-radius: 5px;
   border: none;
   padding: 10px;
+  width: 100%;
+  margin-bottom: 21px;
 }
 
 .contact-form__1 input[type=submit] {
@@ -406,6 +407,14 @@ label {
   background-color: #d1ccc0;
 }
 
+.box__one img { 
+  border-style: none;
+border-radius: 15px;
+width: 250px;
+height: 350px;
+object-fit: contain;
+}
+
 .box__two {
   background-color: #82ccdd;
 }
@@ -415,17 +424,49 @@ label {
   color: inherit;
 }
 
+.box__three img { 
+  border-style: none;
+border-radius: 15px;
+width: 250px;
+height: 350px;
+object-fit: contain;
+}
+
 .box__four {
   background-color: #ffda79;
   color: inherit;
+}
+
+.box__four img { 
+  border-style: none;
+border-radius: 15px;
+width: 250px;
+height: 350px;
+object-fit: contain;
 }
 
 .box__five {
   background-color: #40407a;
 }
 
+.box__five img { 
+  border-style: none;
+border-radius: 15px;
+width: 250px;
+height: 350px;
+object-fit: contain;
+}
+
 .box__six {
   background-color: #218c74;
+}
+
+.box__six img { 
+  border-style: none;
+border-radius: 15px;
+width: 250px;
+height: 350px;
+object-fit: contain;
 }
 
 /*  ------------------   MEDIA QUERIES  ---------------------- */
