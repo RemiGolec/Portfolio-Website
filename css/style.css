@@ -389,19 +389,47 @@ label {
   margin: 0 auto;
   margin-bottom: 20px;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
 
 .grid__item {
   background-color: var(--section-secondary-color);
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.grid__item:last-child {
+.box__three,
+.box__four,
+.box__five,
+.box__six
+ {
+  color: var(--off-white);
+}
+
+.box__one,
+.box__two,
+.box__three,
+.box__four,
+.box__five,
+.box__six
+{
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+a {
+  color: hotpink;
+  font-weight: bold;
+}
+
+/* .grid__item:last-child {
   grid-column: 1 / 3;
   grid-row: 2 / 4;
-}
+} */
 
 .box__one {
   background-color: #d1ccc0;
@@ -409,10 +437,10 @@ label {
 
 .box__one img { 
   border-style: none;
-border-radius: 15px;
-width: 250px;
-height: 350px;
-object-fit: contain;
+  border-radius: 15px;
+  width: 250px;
+  height: 350px;
+  object-fit: contain;
 }
 
 .box__two {
@@ -421,15 +449,14 @@ object-fit: contain;
 
 .box__three {
   background-color: #b33939;
-  color: inherit;
 }
 
 .box__three img { 
   border-style: none;
-border-radius: 15px;
-width: 250px;
-height: 350px;
-object-fit: contain;
+  border-radius: 15px;
+  width: 250px;
+  height: 350px;
+  object-fit: contain;
 }
 
 .box__four {
@@ -439,22 +466,23 @@ object-fit: contain;
 
 .box__four img { 
   border-style: none;
-border-radius: 15px;
-width: 250px;
-height: 350px;
-object-fit: contain;
+  border-radius: 15px;
+  width: 250px;
+  height: 350px;
+  object-fit: contain;
 }
 
 .box__five {
   background-color: #40407a;
+  
 }
 
 .box__five img { 
   border-style: none;
-border-radius: 15px;
-width: 250px;
-height: 350px;
-object-fit: contain;
+  border-radius: 15px;
+  width: 250px;
+  height: 350px;
+  object-fit: contain;
 }
 
 .box__six {
@@ -463,10 +491,10 @@ object-fit: contain;
 
 .box__six img { 
   border-style: none;
-border-radius: 15px;
-width: 250px;
-height: 350px;
-object-fit: contain;
+  border-radius: 15px;
+  width: 250px;
+  height: 350px;
+  object-fit: contain;
 }
 
 /*  ------------------   MEDIA QUERIES  ---------------------- */
