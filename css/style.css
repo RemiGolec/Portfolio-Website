@@ -325,6 +325,10 @@ keyframes cloud-move-reverse {
   margin: 20px;
 }
 
+.contact-page_info-container {
+  margin-top: 150px;
+}
+
 .contact-form__1 {
   display: flex;
   flex-direction: column;
@@ -365,7 +369,8 @@ label {
   box-shadow: 1px 7px 20px 0 #3333;
 }
 
-.index-footer {
+.index-footer,
+.contact-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
